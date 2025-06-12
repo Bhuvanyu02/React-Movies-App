@@ -1,12 +1,71 @@
-# React + Vite
+# 🎬 React Movies App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive, modern movie browsing application built with React.js, integrating API-based dynamic content, user-friendly design, and seamless routing.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Visitors](https://komarev.com/ghpvc/?username=Bhuvanyu02&repo=React-Movies-App&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Bhuvanyu02/React-Movies-App?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Bhuvanyu02/React-Movies-App?style=social)
+![License](https://img.shields.io/github/license/Bhuvanyu02/React-Movies-App)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Features
+
+- 🔍 Real-time movie search
+- 🧠 Clean, component-based architecture
+- 📱 Responsive design for all screen sizes
+- 🎞️ Integration with TMDb API
+- 🎨 Styled with modern UI libraries (Tailwind CSS)
+
+---
+
+## 🚀 Live Demo
+
+> Coming soon  
+<!-- Replace with actual URL when available -->
+
+---
+
+## 📸 Screenshots
+
+![localhost_5173_](https://github.com/user-attachments/assets/da29a0a9-8cce-4975-9dcd-0c352ab99c16)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS 
+- **API:** TMDb 
+- **Hosting:** GitHub Pages
+
+---
+
+## 📊 GitHub Stats
+
+![Bhuvanuy02 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhuvanyu02&show_icons=true&theme=tokyonight&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanyu02&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Future Enhancements
+
+- [ ] Add user login / authentication
+- [ ] Add movie watchlist feature
+- [ ] Optimize performance for large datasets
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, open an issue first to discuss what you would like to change.
+
+---
+
+## 📬 Contact
+
+- GitHub: [@Bhuvanyu02](https://github.com/Bhuvanyu02)
+
+---
